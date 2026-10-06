@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kit_Robot.kicad_pro",
+    "filename": "Kit_Mariachi.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,18 +656,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Kit_Robot.kicad_sch",
-        "name": "Kit_Robot",
-        "uuid": "531d9f86-ffa1-42a2-8efe-876687724e52"
+        "filename": "Kit_Mariachi.kicad_sch",
+        "name": "Raíz",
+        "uuid": "7c3ce68a-09b0-4daa-95df-30975e784bed"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR3-11,BT1,C3-4,D1-2,Q1-4,R1-4,SW2",
     "variants": []
   },
   "sheets": [
     [
-      "531d9f86-ffa1-42a2-8efe-876687724e52",
-      "Kit_Robot"
+      "7c3ce68a-09b0-4daa-95df-30975e784bed",
+      "Raíz"
     ]
   ],
   "text_variables": {},

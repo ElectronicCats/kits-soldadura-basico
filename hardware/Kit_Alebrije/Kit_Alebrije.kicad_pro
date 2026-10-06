@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kit_Robot.kicad_pro",
+    "filename": "Kit_Alebrije.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,18 +656,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Kit_Robot.kicad_sch",
-        "name": "Kit_Robot",
-        "uuid": "531d9f86-ffa1-42a2-8efe-876687724e52"
+        "filename": "Kit_Alebrije.kicad_sch",
+        "name": "Raíz",
+        "uuid": "39747d01-2592-411e-82e8-e171eb0e7538"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW2,R1-4,Q1-2,D1-2,C3-4,BT1,#PWR3-11",
     "variants": []
   },
   "sheets": [
     [
-      "531d9f86-ffa1-42a2-8efe-876687724e52",
-      "Kit_Robot"
+      "39747d01-2592-411e-82e8-e171eb0e7538",
+      "Raíz"
     ]
   ],
   "text_variables": {},
