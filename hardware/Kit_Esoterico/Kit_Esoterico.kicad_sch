@@ -3015,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_Shouhan_MSK12C02"
+		(property "Footprint" "Kits:SW-SMD_3P-P1.50_L2.7-W6.6"
 			(at 204.47 55.88 0)
 			(hide yes)
 			(show_name no)
