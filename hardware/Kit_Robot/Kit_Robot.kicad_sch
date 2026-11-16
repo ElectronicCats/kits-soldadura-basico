@@ -2937,7 +2937,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC548"
+		(property "Value" "BC547"
 			(at 64.77 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3135,7 +3135,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 109.982 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3384,7 +3384,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 75.692 88.392 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3553,7 +3553,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 114.554 94.234 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3644,7 +3644,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 62.23 89.408 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3839,7 +3839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 82.55 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4086,7 +4086,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 123.19 94.488 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4348,7 +4348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC548"
+		(property "Value" "BC547"
 			(at 121.92 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)

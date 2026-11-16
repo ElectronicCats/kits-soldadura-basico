@@ -433,7 +433,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "98976296-e02d-4beb-93c8-ecfaebf3a58c")
@@ -637,7 +637,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
 			(uuid "dbe006fe-8dd2-489e-837b-d2ce900253b3")
@@ -896,7 +896,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 5.08 2.37 90)
 			(layer "F.Fab")
 			(uuid "6047b6c2-2b81-4a24-949c-8f982525a401")
@@ -1100,7 +1100,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
 			(uuid "db53b550-a8d9-4ecf-b05a-6a1ffb81ddaf")
@@ -2475,7 +2475,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
 			(uuid "0aa61889-2fc7-4b44-a972-034ca7a97da7")
@@ -4587,7 +4587,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
 			(uuid "97cf6830-859f-428e-bf0b-07317bca8d28")

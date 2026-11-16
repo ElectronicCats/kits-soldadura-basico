@@ -3104,7 +3104,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 120.904 85.344 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3306,7 +3306,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 116.332 76.962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3397,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 129.54 85.598 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3498,7 +3498,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "100uF"
 			(at 82.042 79.502 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3885,7 +3885,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "1K"
 			(at 88.9 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4335,7 +4335,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "YELLOW"
 			(at 68.58 80.518 0)
 			(show_name no)
 			(do_not_autoplace no)
